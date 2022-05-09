@@ -160,3 +160,16 @@ main {
 .task .actions .delete {
 	color: crimson;
 }
+
+
+@media(max-width:998px){
+    html{
+        font-size: 85%;
+    }
+}
+
+@media(max-width:768px){
+    html{
+        font-size: 75%;
+    }
+}
